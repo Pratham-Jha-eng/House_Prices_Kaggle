@@ -1,5 +1,3 @@
-# House_Prices_Kaggle
-An end-to-end regression project to predict house prices, featuring comprehensive EDA, feature engineering, and an XGBoost model.
 Predicting House Prices in Ames, Iowa
 This repository contains an end-to-end machine learning project to predict house prices for the Ames, Iowa dataset from the Kaggle competition. The project involves comprehensive data exploration, feature engineering, and model training, culminating in an XGBoost model that achieves a competitive Kaggle score.
 
