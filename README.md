@@ -57,8 +57,6 @@ We held a tournament of models to see who was worthy.
 
 Our final XGBoost champion landed a **0.15** on the Kaggle leaderboard! This awesome score proved that our detective work, gold mining, and choice of a powerful model paid off.
 
-The next adventure? Fine-tuning our XGBoost champion's magic dials (`hyperparameters`) to see if we can climb even higher!
-
 ---
 
 ## 🚀 How to Run This Adventure
